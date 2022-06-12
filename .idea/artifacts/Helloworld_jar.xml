@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Helloworld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Helloworld_jar</output-path>
+    <root id="archive" name="Helloworld.jar">
+      <element id="module-output" name="Helloworld" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.36.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
