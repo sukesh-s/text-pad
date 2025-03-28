@@ -8,3 +8,10 @@ Folder includes
 - App database
 - App icon
 
+To run
+```
+java -jar Helloworld.jar
+```
+
+
+![HelloWorld](https://github.com/user-attachments/assets/896ba232-990e-4a0a-ad40-e0155ed1e17f)
